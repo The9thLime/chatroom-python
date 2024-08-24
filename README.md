@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple chat application implemented in Python. It consists of a server and a client program. The server handles multiple client connections and broadcasts messages between clients. Each client sees their own messages with a `[You]` prefix and other clients' messages with the sender's address.
+This project is a simple chat application implemented in Python. It consists of a server and a client program. The server handles multiple client connections and broadcasts messages between clients. 
 
 ## Features
 
